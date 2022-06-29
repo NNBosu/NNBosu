@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://cdn.discordapp.com/attachments/986308896652152842/991736339554902187/static.png?size=4096" style"width: 100%;border-radius:15px">
+  <img src="https://share.creavite.co/yFywPZrONMdzOVEY.png" style"width: 100%;border-radius:15px">
 </div>
 
 ## <div align="center">I'm Bosu, mainly a Discord Bot Developer! Working since 2020 on Bots 🚀</div>  
