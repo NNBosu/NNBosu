@@ -1,8 +1,6 @@
-<div align="center" style"border-radius:15px">
-  <img src="https://share.creavite.co/yFywPZrONMdzOVEY.png" style"width: 100%;border-radius:15px">
-</div>
+[![NNBosu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NNBosu&show_icons=true&theme=tokyonight)](https://github.com/NNBosu)
+[![NNBosu's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NNBosu&)](https://github.com/NNBosu)
 
-## <div align="center">I'm Bosu, mainly a Discord Bot Developer! Working since 2020 on Bots 🚀</div>  
   
 ***
 
@@ -27,5 +25,6 @@
 
 # Credits
 
-> If consider using this Bot, make sure to credit me!
+> If consider using this README.md, make sure to credit me!
+* README.md made by Bosu!
 
