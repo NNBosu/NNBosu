@@ -14,7 +14,7 @@
 ***
 
 ## [Discord Server 😎](https://discord.gg/49BFrMhys5)
-<a href="https://discord.gg/49BFrMhys5"><img src="https://cdn.discordapp.com/attachments/986308896652152842/991737532364640276/unknown.png?size=4096"></a>
+<a href="https://discord.gg/49BFrMhys5"><img src="https://cdn.discordapp.com/attachments/986308890050326600/994936762654793788/image.png?size=4096"></a>
 
 ***
 
