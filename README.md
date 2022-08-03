@@ -26,5 +26,4 @@
 # Credits
 
 > If consider using this README.md, make sure to credit me!
-* README.md made by Bosu!
-
+* *README.md made by Bosu!*
