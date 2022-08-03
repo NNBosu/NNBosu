@@ -6,14 +6,14 @@
 
 - 👋 Hi, I’m @NNBosu
 - 👀 I’m interested in coding websites + discord bots
-- 🌱 I’m currently learning Nextjs, Reactjs, Nodejs & Javascript
-- 📫 How to reach me. If you need any help make sure you join my [Discord Server](https://discord.gg/49BFrMhys5)
+- 🌱 I am currently learning Nextjs, Reactjs, Nodejs & Javascript
+- 📫 How to reach me. If you need any help make sure you join my [Discord Server](https://discord.gg/M5K98p27mB)
   
 <br/>
   
 ***
 
-## [Discord Server 😎](https://discord.gg/49BFrMhys5)
+## [Discord Server 😎](https://discord.gg/M5K98p27mB)
 <a href="https://discord.gg/49BFrMhys5"><img src="https://cdn.discordapp.com/attachments/986308890050326600/994936762654793788/image.png?size=4096"></a>
 
 ***
