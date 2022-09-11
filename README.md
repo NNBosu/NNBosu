@@ -1,7 +1,11 @@
 [![NNBosu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NNBosu&show_icons=true&theme=tokyonight)](https://github.com/NNBosu)
 [![NNBosu's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NNBosu&theme=tokyonight)](https://github.com/NNBosu)
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/NNBosu/count.svg" />
   
-***
+  <p align="center"> 
+
 
 - 👋 Hi, I’m @NNBosu
 - 👀 I’m interested in coding websites + discord bots
