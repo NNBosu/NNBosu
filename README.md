@@ -4,6 +4,7 @@
   
   <p align="center"> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF0000&background=0082FF00&center=true&vCenter=true&width=300&lines=NNBosu+is+1st!;Here+we+go+again!)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @NNBosu
 - 👀 I’m interested in coding websites + discord bots
